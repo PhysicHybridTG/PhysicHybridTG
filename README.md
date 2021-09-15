@@ -14,5 +14,5 @@
 ```
 Don't Go With GitHub Stats As It Only Shows Stats Of the Open-Source Repos. 
 So I have 100+ Repos Private And Contributed In Many Users Private Repos.
-So, Don't Underestimate Any User Having Low Stats.. 😝😝🤪
+So, Don't Underestimate Any Users Having Low Stats.. 😝😝🤪
 ```
